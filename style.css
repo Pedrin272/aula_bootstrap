@@ -1,0 +1,23 @@
+
+body{
+    font-family: 'Times New Roman', Times, serif  ;
+}
+.navbar{
+    background-color: aquamarine;
+    justify-content: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+#quemsomos{
+    background-color: aliceblue;
+}
+.padding{
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+.parceiros{
+    background-color: cadetblue;
+}
+.bg-footer{
+    
+    background-color: aliceblue;
+}
